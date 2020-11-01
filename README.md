@@ -25,6 +25,6 @@ Three recommendations to the CEO for addressing disparity among the city types:
 
 1. Urban city types will drive more overall revenue. Focus resources on more densely populated cities to gain a higher amount of total fares. 
 
-2. If growing the Rural city type is your goal, lower the average fare. This will make the ride-share option more appealing in less populated areas.
+2. Lower the average fare in the Rural city type. This will make the ride-share option more appealing in less populated areas.
 
 3. Rural activity may be lower due to the small amount of total drivers. Raising the amount of drivers in rural areas may increase activity in this area.
