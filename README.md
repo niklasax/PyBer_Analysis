@@ -6,8 +6,6 @@ The purpose of this analysis was to gain a functional understanding of a python 
 
 ## Results: 
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
 There were many differences between the data seen between city types. The rural city type saw the lowest total rides, lowest total drivers, lowest total fares, highest average fare per ride and highest average fare per driver. The Urban city type saw the highest total rides, highest total drivers, highest total fares, highest average fare per ride and highest average fare per driver. While the average fares were higher in rural city types, the overall fare was higher in Urban areas due to the total number of rides being much higher.
 
 <img src="https://github.com/niklasax/PyBer_Analysis/blob/main/Analysis/Summary_df.png" width="500" height="100" />
